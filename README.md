@@ -37,5 +37,4 @@ Contact
 Developer:
 RC Works
 
-Email:
-your@email.com
+
